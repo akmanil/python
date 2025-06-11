@@ -8,5 +8,5 @@ tupple =(1,2,3);
 dictionary = {"name":"Anil","age":23};
 # this all aree the the data types in python
 
-# to print that all the variables or other in console we just to use print statemate in python
+# to print th\n at all the variables or other in console we just to use print statemate in python
 print(number , str ,boolean , array ,tupple ,dictionary);
